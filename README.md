@@ -1,7 +1,7 @@
 # CRUD_APIs
 A simple project to create, read, update and delete data in database through API using Django REST framework of Python. 
 -----
-**Technology/Framework used**
+### Technology/Framework used  
 * Python - 3.10.1
     - [Pycharm Community Edition](https://www.jetbrains.com/pycharm/download/#section=windows)
 * Django - 4.0.1
